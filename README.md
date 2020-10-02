@@ -4,4 +4,4 @@
     <p><a href="https://dershop.dev">https://dershop.dev</a></p>
 </div>
 
-### Coming soon
+### We have moved: https://github.com/corejam/corejam
